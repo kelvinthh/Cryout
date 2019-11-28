@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: de46b1bdac7509040adfc795a8c2a022
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Typeka
+  fontNames:
+  - Typeka
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 89f0f97674dfb474499dbac316ddfd28, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
