@@ -17,6 +17,5 @@ public class ButtonClick : MonoBehaviour, IPointerEnterHandler
     public void OnPointerEnter(PointerEventData eventData)
     {
         audioSource.PlayOneShot(click);
-        Debug.Log("Cyka");
     }
 }
